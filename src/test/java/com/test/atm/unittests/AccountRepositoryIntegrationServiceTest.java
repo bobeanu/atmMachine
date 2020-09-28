@@ -1,4 +1,4 @@
-package com.test.atm;
+package com.test.atm.unittests;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThrows;
