@@ -4,7 +4,7 @@ Atm machine REST API is a spring boot application that exposes 2 endpoints(inqui
 
 ## Requirements
 
-- JDK 1.8
+- JDK 11
 - Maven
 
 ## Running the application locally
